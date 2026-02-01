@@ -1,6 +1,6 @@
 ## Fancy seeing you here! 👋
 
-I’m **Noveer Morcos**,  
+I’m **Novair Morkos**,  
 a **Computer Science student** with a passion for learning programming and building solid fundamentals.
 
 I’m currently focusing on:
